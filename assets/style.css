@@ -216,7 +216,7 @@ a:hover {
   margin: 0;
 }
 .intro {
-  background: url(../assets/background.png) #fec5c1 repeat center;
+  background: url(../assets/background.png) #c0ffc3 repeat center;
   color: #000;
   padding: 120px 0 180px;
   margin: 0 0 120px;
@@ -327,7 +327,7 @@ a:hover {
   margin: 0 0 10px;
 }
 .footer {
-  background: url(../assets/background.png) #fec5c1 repeat center;
+  background: url(../assets/background.png) #c0ffc3 repeat center;
   color: #000;
   font-size: 16px;
   padding: 120px 0;
